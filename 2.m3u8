@@ -3,9 +3,7 @@
 #EXT-X-TARGETDURATION:60
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:14,
-/m3u/1.wav
+/m3u/1.mp3
 #EXTINF:16,
-/m3u/2.wav
-#EXTINF:16,
-/m3u/3.wav
+/m3u/2.mp3
 #EXT-X-ENDLIST
