@@ -16,6 +16,7 @@ segment_004.ts
 segment_005.ts
 #EXTINF:0.032311,
 segment_006.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:10.004900,
 segment_007.ts
 #EXTINF:10.004900,
