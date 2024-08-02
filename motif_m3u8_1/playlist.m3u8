@@ -3,12 +3,12 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.007667,
-segment_000.ts
+https://lebennna.github.io/motif_m3u8_1/segment_000.ts
 #EXTINF:9.994556,
-segment_001.ts
+https://lebennna.github.io/motif_m3u8_1/segment_001.ts
 #EXTINF:10.017667,
-segment_002.ts
+https://lebennna.github.io/motif_m3u8_1/segment_002.ts
 #EXTINF:9.984556,
-segment_003.ts
+https://lebennna.github.io/motif_m3u8_1/segment_003.ts
 #EXTINF:10.017778,
-segment_004.ts
+https://lebennna.github.io/motif_m3u8_1/segment_004.ts
